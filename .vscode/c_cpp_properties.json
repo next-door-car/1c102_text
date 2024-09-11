@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/drivers/include",
+                "${workspaceFolder}/drivers/private/ls1c102",
+                "${workspaceFolder}/drivers/public",
+                "${workspaceFolder}/src",
+                "${workspaceFolder}/system",
+                "${workspaceFolder}/src/oled",
+                "${workspaceFolder}",
+                "${workspaceFolder}/src/key",
+                "${workspaceFolder}/src/LED",
+                "${workspaceFolder}/src/project",
+                "${workspaceFolder}/src/u8g2",
+                "${workspaceFolder}/src/u8g2_driver",
+                "${workspaceFolder}/src/uart"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}

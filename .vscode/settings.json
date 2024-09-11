@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "oled96.h": "c",
+        "ls1x_latimer.h": "c",
+        "ls1x_gpio.h": "c",
+        "config.h": "c",
+        "ls1x.h": "c",
+        "led.h": "c",
+        "usergpio.h": "c",
+        "key.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "oled.h": "c",
+        "u8g2_driver.h": "c",
+        "u8x8.h": "c",
+        "test.h": "c",
+        "queue.h": "c",
+        "ls1x_uart.h": "c",
+        "u8g2.h": "c"
+    }
+}
